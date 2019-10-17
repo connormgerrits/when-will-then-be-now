@@ -26,7 +26,7 @@ function filterLogsOnDate(logs, dateFilter) {
 
   return filteredLogs
 }
-
+// hello
 function filterLogs(logs, env, dateFilter) {
   const envLogs = filterLogsByEnv(logs, env)
 
